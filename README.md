@@ -1,1 +1,5 @@
-Bu depo 2025-2026 yılları arasında C# uzerınden yaptıgım calısmaları ıcermekte 
+English:
+This repository contains the projects I have created using C#.
+
+Türkçe:
+Bu depo C# uzerınden yaptıgım calısmaları ıcermekte 
