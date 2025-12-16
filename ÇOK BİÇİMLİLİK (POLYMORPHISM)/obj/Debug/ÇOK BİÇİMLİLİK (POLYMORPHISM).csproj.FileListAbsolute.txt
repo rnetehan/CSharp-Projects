@@ -1,0 +1,11 @@
+C:\metehan tambas\ÇOK BİÇİMLİLİK (POLYMORPHISM)\bin\Debug\ÇOK BİÇİMLİLİK (POLYMORPHISM).exe.config
+C:\metehan tambas\ÇOK BİÇİMLİLİK (POLYMORPHISM)\bin\Debug\ÇOK BİÇİMLİLİK (POLYMORPHISM).exe
+C:\metehan tambas\ÇOK BİÇİMLİLİK (POLYMORPHISM)\bin\Debug\ÇOK BİÇİMLİLİK (POLYMORPHISM).pdb
+C:\metehan tambas\ÇOK BİÇİMLİLİK (POLYMORPHISM)\obj\Debug\ÇOK BİÇİMLİLİK (POLYMORPHISM).csproj.AssemblyReference.cache
+C:\metehan tambas\ÇOK BİÇİMLİLİK (POLYMORPHISM)\obj\Debug\ÇOK_BİÇİMLİLİK__POLYMORPHISM_.Form1.resources
+C:\metehan tambas\ÇOK BİÇİMLİLİK (POLYMORPHISM)\obj\Debug\ÇOK_BİÇİMLİLİK__POLYMORPHISM_.Properties.Resources.resources
+C:\metehan tambas\ÇOK BİÇİMLİLİK (POLYMORPHISM)\obj\Debug\ÇOK BİÇİMLİLİK (POLYMORPHISM).csproj.GenerateResource.cache
+C:\metehan tambas\ÇOK BİÇİMLİLİK (POLYMORPHISM)\obj\Debug\ÇOK BİÇİMLİLİK (POLYMORPHISM).csproj.CoreCompileInputs.cache
+C:\metehan tambas\ÇOK BİÇİMLİLİK (POLYMORPHISM)\obj\Debug\ÇOK BİÇİMLİLİK (POLYMORPHISM).exe
+C:\metehan tambas\ÇOK BİÇİMLİLİK (POLYMORPHISM)\obj\Debug\ÇOK BİÇİMLİLİK (POLYMORPHISM).pdb
+C:\metehan tambas\ÇOK BİÇİMLİLİK (POLYMORPHISM)\obj\Debug\ÇOK BİÇİMLİLİK (POLYMORPHISM).exe.config
