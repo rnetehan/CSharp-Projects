@@ -1,0 +1,16 @@
+C:\Kodlar\BankaUygulaması\BankaUygulaması\obj\Debug\net8.0-windows\BankaUygulaması.Form1.resources
+C:\Kodlar\BankaUygulaması\BankaUygulaması\obj\Debug\net8.0-windows\BankaUygulaması.csproj.GenerateResource.cache
+C:\Kodlar\BankaUygulaması\BankaUygulaması\obj\Debug\net8.0-windows\BankaUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kodlar\BankaUygulaması\BankaUygulaması\obj\Debug\net8.0-windows\BankaUygulaması.AssemblyInfoInputs.cache
+C:\Kodlar\BankaUygulaması\BankaUygulaması\obj\Debug\net8.0-windows\BankaUygulaması.AssemblyInfo.cs
+C:\Kodlar\BankaUygulaması\BankaUygulaması\obj\Debug\net8.0-windows\BankaUygulaması.csproj.CoreCompileInputs.cache
+C:\Kodlar\BankaUygulaması\BankaUygulaması\bin\Debug\net8.0-windows\BankaUygulaması.exe
+C:\Kodlar\BankaUygulaması\BankaUygulaması\bin\Debug\net8.0-windows\BankaUygulaması.deps.json
+C:\Kodlar\BankaUygulaması\BankaUygulaması\bin\Debug\net8.0-windows\BankaUygulaması.runtimeconfig.json
+C:\Kodlar\BankaUygulaması\BankaUygulaması\bin\Debug\net8.0-windows\BankaUygulaması.dll
+C:\Kodlar\BankaUygulaması\BankaUygulaması\bin\Debug\net8.0-windows\BankaUygulaması.pdb
+C:\Kodlar\BankaUygulaması\BankaUygulaması\obj\Debug\net8.0-windows\BankaUygulaması.dll
+C:\Kodlar\BankaUygulaması\BankaUygulaması\obj\Debug\net8.0-windows\refint\BankaUygulaması.dll
+C:\Kodlar\BankaUygulaması\BankaUygulaması\obj\Debug\net8.0-windows\BankaUygulaması.pdb
+C:\Kodlar\BankaUygulaması\BankaUygulaması\obj\Debug\net8.0-windows\BankaUygulaması.genruntimeconfig.cache
+C:\Kodlar\BankaUygulaması\BankaUygulaması\obj\Debug\net8.0-windows\ref\BankaUygulaması.dll
