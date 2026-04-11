@@ -1,0 +1,14 @@
+C:\Kodlar\ingilizce proje ödevi\ingilizce proje ödevi\bin\Debug\ingilizce proje ödevi.exe.config
+C:\Kodlar\ingilizce proje ödevi\ingilizce proje ödevi\bin\Debug\ingilizce proje ödevi.exe
+C:\Kodlar\ingilizce proje ödevi\ingilizce proje ödevi\bin\Debug\ingilizce proje ödevi.pdb
+C:\Kodlar\ingilizce proje ödevi\ingilizce proje ödevi\obj\Debug\ingilizce proje ödevi.csproj.AssemblyReference.cache
+C:\Kodlar\ingilizce proje ödevi\ingilizce proje ödevi\obj\Debug\ingilizce_proje_ödevi.Form1.resources
+C:\Kodlar\ingilizce proje ödevi\ingilizce proje ödevi\obj\Debug\ingilizce_proje_ödevi.Properties.Resources.resources
+C:\Kodlar\ingilizce proje ödevi\ingilizce proje ödevi\obj\Debug\ingilizce proje ödevi.csproj.GenerateResource.cache
+C:\Kodlar\ingilizce proje ödevi\ingilizce proje ödevi\obj\Debug\ingilizce proje ödevi.csproj.CoreCompileInputs.cache
+C:\Kodlar\ingilizce proje ödevi\ingilizce proje ödevi\obj\Debug\ingilizce proje ödevi.exe
+C:\Kodlar\ingilizce proje ödevi\ingilizce proje ödevi\obj\Debug\ingilizce proje ödevi.pdb
+C:\Kodlar\ingilizce proje ödevi\ingilizce proje ödevi\obj\Debug\ingilizce proje ödevi.exe.config
+C:\Kodlar\ingilizce proje ödevi\ingilizce proje ödevi\obj\Debug\ingilizce_proje_ödevi.Cumle_Tamamlama.resources
+C:\Kodlar\ingilizce proje ödevi\ingilizce proje ödevi\obj\Debug\ingilizce_proje_ödevi.adamasmaca.resources
+C:\Kodlar\ingilizce proje ödevi\ingilizce proje ödevi\obj\Debug\ingilizce_proje_ödevi.görsel_eslestirme.resources
